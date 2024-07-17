@@ -18,6 +18,15 @@ Welcome to my GitHub profile! I am a developer passionate about technology and i
     <img alt="Composer" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg"/>
 </div>
 
+### Python
+
+<div style="display: inline-block">
+    <img alt="Python" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+    <img alt="Django" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
+    <img alt="Django REST" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"/>
+    <img alt="Selenium" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>
+</div>
+
 ### JavaScript
 
 <div style="display: inline-block">
@@ -27,14 +36,6 @@ Welcome to my GitHub profile! I am a developer passionate about technology and i
     <img alt="Express.js" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
     <img alt="Sequelize.js" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg"/>
     <img alt="NPM" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"/>
-</div>
-
-### Python
-
-<div style="display: inline-block">
-    <img alt="Python" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-    <img alt="Django" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
-    <img alt="Selenium" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>
 </div>
 
 ### HTML / CSS
